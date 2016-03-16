@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/justindecamp/Dev/React/native/authentication/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="845a5b3a624946b2068963ba656c117fc453701c">
+        <dex dex="/Users/justindecamp/Dev/React/native/authentication/android/app/build/intermediates/pre-dexed/debug/classes-892386ba993b2388f664f8d5060e6166072e27ee.jar" />
+    </item>
+    <item
+        jar="/Users/justindecamp/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-okhttp/1.2.0/6c5c9380e245c4ff5be2b2a49dcbb0200c39798e/stetho-okhttp-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6c5c9380e245c4ff5be2b2a49dcbb0200c39798e">
+        <dex dex="/Users/justindecamp/Dev/React/native/authentication/android/app/build/intermediates/pre-dexed/debug/stetho-okhttp-1.2.0-52b0679963d59a39b91849e8665ee54cb9265d0b.jar" />
+    </item>
+    <item
+        jar="/Users/justindecamp/Dev/React/native/authentication/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/justindecamp/Dev/React/native/authentication/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-1b95815672580eaae106ac2db3148c8c4b62e3d4.jar" />
+    </item>
+    <item
+        jar="/Users/justindecamp/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/justindecamp/Dev/React/native/authentication/android/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0-727d89959142b6f28fa450faec9dc27f3ddd2244.jar" />
+    </item>
+    <item
+        jar="/usr/local/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/justindecamp/Dev/React/native/authentication/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-83cbd8867bbfafb64844edcdc4bcc0a8099d3359.jar" />
+    </item>
+    <item
+        jar="/Users/justindecamp/Dev/React/native/authentication/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/justindecamp/Dev/React/native/authentication/android/app/build/intermediates/pre-dexed/debug/classes-7c8eec25fcf234247d2e5e7d498066c86ca495fb.jar" />
+    </item>
+    <item
+        jar="/Users/justindecamp/Dev/React/native/authentication/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.21.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6ed5dc2d162c6a24aeaeb765bca63e2ee5171f8e">
+        <dex dex="/Users/justindecamp/Dev/React/native/authentication/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-c87b32d62b96ff2f1fe6a9febda9a0bfd66348f4.jar" />
+    </item>
+    <item
+        jar="/Users/justindecamp/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/justindecamp/Dev/React/native/authentication/android/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-161270f15562ac1d63f64aa4da830c16476b88ef.jar" />
+    </item>
+    <item
+        jar="/Users/justindecamp/Dev/React/native/authentication/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/justindecamp/Dev/React/native/authentication/android/app/build/intermediates/pre-dexed/debug/classes-c0c8335dbe29343ddc6ea530dc3e4b317dda2a84.jar" />
+    </item>
+    <item
+        jar="/Users/justindecamp/Dev/React/native/authentication/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3836ecca4e31e18ea8fbae8e822d49777b0db4f7">
+        <dex dex="/Users/justindecamp/Dev/React/native/authentication/android/app/build/intermediates/pre-dexed/debug/classes-44d6a6a21b85e00d30de02a9e7be8f2b7f51820b.jar" />
+    </item>
+    <item
+        jar="/Users/justindecamp/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/justindecamp/Dev/React/native/authentication/android/app/build/intermediates/pre-dexed/debug/okio-1.6.0-c1572fa8e19b3ae793141f886f4ac33177f84c86.jar" />
+    </item>
+    <item
+        jar="/Users/justindecamp/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho/1.2.0/1d6cdb8ce8185b8b23213fad48a83987fb6d2d67/stetho-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1d6cdb8ce8185b8b23213fad48a83987fb6d2d67">
+        <dex dex="/Users/justindecamp/Dev/React/native/authentication/android/app/build/intermediates/pre-dexed/debug/stetho-1.2.0-f98db154a6c17fa546fcfd6e36be52311aff2e4b.jar" />
+    </item>
+    <item
+        jar="/Users/justindecamp/Dev/React/native/authentication/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0d5d69b03cb7d68b81543f6483ed04ccb0e2235b">
+        <dex dex="/Users/justindecamp/Dev/React/native/authentication/android/app/build/intermediates/pre-dexed/debug/classes-22dccb72c6e4970d7950068eef5b8b45026f644c.jar" />
+    </item>
+    <item
+        jar="/Users/justindecamp/Dev/React/native/authentication/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4af24c040b21980e0a80a505816c648e36705bd9">
+        <dex dex="/Users/justindecamp/Dev/React/native/authentication/android/app/build/intermediates/pre-dexed/debug/classes-ac081d825ac6409b102f71f5eec1ceedb12191c0.jar" />
+    </item>
+    <item
+        jar="/Users/justindecamp/Dev/React/native/authentication/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.21.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="771892705d7958ec5a294a103a0e52e7f8d0bdc0">
+        <dex dex="/Users/justindecamp/Dev/React/native/authentication/android/app/build/intermediates/pre-dexed/debug/classes-50f4baab95a44b18ce42ded7659806ec3d38a59f.jar" />
+    </item>
+    <item
+        jar="/Users/justindecamp/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/justindecamp/Dev/React/native/authentication/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-d41c5cb20d0e04410d086938fd4156c51e9c526f.jar" />
+    </item>
+    <item
+        jar="/Users/justindecamp/Dev/React/native/authentication/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/justindecamp/Dev/React/native/authentication/android/app/build/intermediates/pre-dexed/debug/classes-3f398dd4b65d2e2b76df7273f48d185c15cb40cc.jar" />
+    </item>
+    <item
+        jar="/Users/justindecamp/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/justindecamp/Dev/React/native/authentication/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-ad480adb6859bbd79f1af0f792f1018b96e7db73.jar" />
+    </item>
+    <item
+        jar="/Users/justindecamp/Dev/React/native/authentication/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9178570a3a28c95fabd3bc746cd68efe99ad2b47">
+        <dex dex="/Users/justindecamp/Dev/React/native/authentication/android/app/build/intermediates/pre-dexed/debug/classes-793b65973198d14800d22b646b74dd0dba1935d6.jar" />
+    </item>
+    <item
+        jar="/Users/justindecamp/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="/Users/justindecamp/Dev/React/native/authentication/android/app/build/intermediates/pre-dexed/debug/commons-cli-1.2-b769ea534cf06f047213ea6a07167f69fbfe9b11.jar" />
+    </item>
+    <item
+        jar="/Users/justindecamp/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.5.0/e9753b7dcae5deca92e871c5c759067070b07bc/okhttp-ws-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0e9753b7dcae5deca92e871c5c759067070b07bc">
+        <dex dex="/Users/justindecamp/Dev/React/native/authentication/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.5.0-f8ad952b2b29bf2b455b15fd87f54082d3cbaca1.jar" />
+    </item>
+    <item
+        jar="/Users/justindecamp/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/justindecamp/Dev/React/native/authentication/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-becfbdea262b9d5904d46180edddf5ba67f01254.jar" />
+    </item>
+
+</items>
