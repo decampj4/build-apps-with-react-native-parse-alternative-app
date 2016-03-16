@@ -5,7 +5,7 @@ that Parse is going out of business, so his fourth lesson is difficult to comple
 backend for user sign up and login. To get around this, I wrote a very basic RoR server that would perform these tasks, which
 can be found in the repo referenced above. In the process, I had to change some of the lesson's code to play well with my server.
 So for anyone interested in what the code for a working version of the "authentication" app looks like post Parse, please feel free to
-look at, modify, do whatever to and with this code.
+look at, modify, and do whatever with this code.
 
 Please be aware though that I used ES6 syntax (out of personal habit and preference) and I also introduced AsyncStorage to the app. AsyncStorage
 uses the device's local storage to store and retrieve key value pairs. The introduction of this feature was useful in trying to
